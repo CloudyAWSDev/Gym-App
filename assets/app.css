@@ -1,0 +1,82 @@
+/* Navbar styles */
+.navbar {
+    background-color: #ffffff;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+.navbar-brand {
+    font-weight: bold;
+    font-size: 2rem;
+}
+
+.nav-item {
+    margin-right: 1rem;
+}
+
+/* Jumbotron styles */
+.jumbotron {
+    background-image: url('/images/gym-background.jpg');
+    background-size: cover;
+    color: #ffffff;
+    text-align: center;
+    padding: 10rem 0;
+}
+
+.jumbotron h1 {
+    font-size: 5rem;
+    font-weight: bold;
+    margin-bottom: 2rem;
+}
+
+.jumbotron p {
+    font-size: 1.5rem;
+    margin-bottom: 2rem;
+}
+
+.jumbotron .btn {
+    font-size: 1.5rem;
+    padding: 1rem 2rem;
+    border-radius: 50px;
+    font-weight: bold;
+}
+
+/* Content section styles */
+.container {
+    margin-top: 4rem;
+}
+
+.col-md-4 {
+    text-align: center;
+    margin-bottom: 4rem;
+}
+
+.col-md-4 h2 {
+    font-size: 3rem;
+    font-weight: bold;
+    margin-bottom: 2rem;
+}
+
+.col-md-4 p {
+    font-size: 1.5rem;
+    margin-bottom: 2rem;
+}
+
+.col-md-4 ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    font-size: 1.5rem;
+    text-align: left;
+    margin-bottom: 2rem;
+}
+
+.col-md-4 ul li {
+    margin-bottom: 1rem;
+}
+
+.col-md-4 .btn {
+    font-size: 1.5rem;
+    padding: 1rem 2rem;
+    border-radius: 50px;
+    font-weight: bold;
+}
